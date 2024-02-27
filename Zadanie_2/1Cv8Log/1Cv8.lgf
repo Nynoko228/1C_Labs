@@ -1,5 +1,5 @@
 ﻿1CV8LOG(ver 2.0)
-a57750bf-11b4-45ab-a4a7-3ce530786490
+5b746733-63c7-4de1-970b-dee88d33a7de
 
 {1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
 {2,"DESKTOP-E8C4BP6",1},
@@ -7,4 +7,28 @@ a57750bf-11b4-45ab-a4a7-3ce530786490
 {4,"_$Session$_.Authentication",1},
 {13,1,1},
 {4,"_$Session$_.Start",2},
-{4,"_$Session$_.Finish",3}
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,a2627fe1-7266-4fcc-bada-4c2f87e45d8d,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{3,"1CV8C",2},
+{3,"BackgroundJob",3},
+{4,"_$Session$_.Finish",7},
+{5,bf4b491c-f54a-4bc4-9dd3-7125db7f6405,"",2},
+{4,"_$Transaction$_.Begin",8},
+{4,"_$Data$_.New",9},
+{5,bf4b491c-f54a-4bc4-9dd3-7125db7f6405,"Справочник.Статусы",2},
+{4,"_$Transaction$_.Commit",10},
+{4,"_$Data$_.Update",11},
+{5,ecca872c-e0ef-41c2-b6f3-d6a7c7032867,"",3},
+{5,a2627fe1-7266-4fcc-bada-4c2f87e45d8d,"Справочник.Виды_контактов",1},
+{5,ecca872c-e0ef-41c2-b6f3-d6a7c7032867,"Справочник.Люди",3},
+{4,"_$Data$_.Delete",12},
+{5,9e847286-d5b6-4357-8ca7-a4682272fec1,"",4},
+{5,9e847286-d5b6-4357-8ca7-a4682272fec1,"Справочник.Статусы_событий",4},
+{5,b8021d13-d14e-42c1-ae30-659b70598cb0,"",5},
+{5,b8021d13-d14e-42c1-ae30-659b70598cb0,"Справочник.События",5},
+{5,d74aceab-85cd-4114-90ec-f3787118e71d,"Документ.Поступление_денег",6},
+{4,"_$Data$_.Post",13},
+{5,b8735b13-3914-4256-986d-86af16b4f12b,"Документ.Расход_денег",7}
